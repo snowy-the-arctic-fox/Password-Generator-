@@ -29,7 +29,7 @@ The program will prompt the user to enter a password to search for. The program 
 This program is open-source and contributions are welcome. If you find a bug or have an idea for a feature, please submit an issue or pull request on GitHub.
 
 ## License
-This program is licensed under the GMT3 License. See the LICENSE file for details.
+This program is licensed under the GPL-3.0 License. See the LICENSE file for details.
 
 ### Acknowledgements
 This program was inspired by a similar program in the book "Programming: Principles and Practice Using C++" by Bjarne Stroustrup.
